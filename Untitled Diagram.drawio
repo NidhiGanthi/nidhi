@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T16:25:19.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.1" etag="YDmz2P-Igw0J712cSIg2" type="github"><diagram id="4T6qdEDVaCHim-BgNlF-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-23T21:47:33.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RYdJJDAkhqwcBhWfWzGp" version="13.8.1" type="github">
+  <diagram id="4T6qdEDVaCHim-BgNlF-" name="Page-1">
+    <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="280" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-2" value="July-August" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="V4onEyV4GmLK5mEYuKO4-7">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-3" value="August-&lt;br&gt;September" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="V4onEyV4GmLK5mEYuKO4-7">
+          <mxGeometry x="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-4" value="November-&lt;br&gt;December" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="V4onEyV4GmLK5mEYuKO4-7">
+          <mxGeometry x="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-5" value="October" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="V4onEyV4GmLK5mEYuKO4-7">
+          <mxGeometry x="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-6" value="October-&lt;br&gt;November" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="V4onEyV4GmLK5mEYuKO4-7">
+          <mxGeometry x="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V4onEyV4GmLK5mEYuKO4-8" value="December-&lt;br&gt;January" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
